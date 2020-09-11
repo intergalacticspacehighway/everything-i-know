@@ -14,3 +14,11 @@
 
 [Responsive layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - To learn making responsive layouts.
 
+[Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) - Great tips and tricks for CSS.
+
+
+
+
+
+
+

@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [JavaScript](javascript.md)
-* [Music Resources](music-resources.md)
-* [Fav Anime](fav-animes.md)
 * [SVG](untitled.md)
 * [Web design](web-design.md)
+* [Music Resources](music-resources.md)
+* [Fav Anime](fav-animes.md)
 
