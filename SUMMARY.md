@@ -6,4 +6,5 @@
 * [Web design](web-design.md)
 * [Music Resources](music-resources.md)
 * [Fav Anime](fav-animes.md)
+* [Typography](typography.md)
 
